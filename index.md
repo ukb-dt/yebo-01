@@ -29,6 +29,13 @@ Why is this so pretty?
   V. Ecosystem
 ```
 
+<div style="text-align: center; margin: 30px 0;">
+  <img src="landscape/ecosystem-3.gif" 
+       alt="Water flowing and carving through mountainous terrain – gradient descent metaphor" 
+       style="max-width: 85%; height: auto; border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.2);">
+  <p style="margin-top: 8px; font-style: italic; color: #666;">Kinetic flow: how descent brings the abstract landscape to life</p>
+</div>
+
 ## 1
 I can see why this catches your eye! There's something elegant about how it's structured.
 
